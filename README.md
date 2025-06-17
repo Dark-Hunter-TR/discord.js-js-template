@@ -46,6 +46,7 @@ A comprehensive Discord bot template built with Discord.js v14, featuring both p
 3. Create a `.env` file in the root directory with the following variables:
    ```
    BOT_TOKEN=your_discord_bot_token
+   BOT_ID=your_discord_bot_id
    MONGODB_URI=your_mongodb_connection_string
    ```
 4. Configure the bot in `src/configs/bot.js`
