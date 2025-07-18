@@ -28,7 +28,6 @@ A comprehensive Discord bot template built with Discord.js v14, featuring both p
 │   ├── configs/            # Configuration files
 │   ├── events/             # Event handlers
 │   │   ├── bot/            # Discord bot events
-│   │   └── other/          # Other custom events
 │   ├── handlers/           # System handlers
 │   ├── classes/            # Custom classes
 │   ├── functions/          # Utility functions
